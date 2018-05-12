@@ -1,0 +1,30 @@
+_repo: Great-Opera-StoriesTaken-from-Original-Sources-in-Old-German_38654
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38654-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bender, Millicent Schwab
+    birthdate: 1876
+    gutenberg_agent_id: '39596'
+    url: http://www.gutenberg.org/2009/agents/39596
+description: ''
+gutenberg_issued: '2012-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Operas -- Stories, plots, etc. -- Juvenile literature'
+tableOfContents: Children of Kings -- Haensel and Gretel -- The Master Singers --
+  Lohengrin, the Knight of the Swan -- The Flying Dutchman -- Tannhäuser, the Minstrel
+  Knight.
+title: 'Great Opera Stories
+
+  Taken from Original Sources in Old German'
+url: http://www.gutenberg.org/ebooks/38654
